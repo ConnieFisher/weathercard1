@@ -1,0 +1,9 @@
+icons8-clouds-100.png
+icons8-rainy-weather-100-2.png
+icons8-rainy-weather-100.png
+icons8-sleet-100.png
+icons8-stormy-weather-100.png
+icons8-sun-100.png
+icons8-sun-smiling-100.png
+icons8-windy-weather-100.png
+printit.txt
